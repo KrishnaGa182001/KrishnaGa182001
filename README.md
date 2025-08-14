@@ -31,7 +31,7 @@ I love solving problems, building clean and scalable applications, and learning 
 ### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-
+![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
 ### **API**
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API%20Integration-4A90E2?style=for-the-badge)
